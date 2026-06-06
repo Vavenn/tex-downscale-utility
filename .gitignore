@@ -1,0 +1,80 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Backup folder created by the application
+.dwnscl_backup/
+
+# External dependencies (keep these in separate repos)
+FFXIV Tex Converter/
+Penumbra/
+build/
+dist/
+DirectXTex/
+DirectXTex Source/
+
+# Test and utility scripts (optional - uncomment if you want to track these)
+# test_*.py
+# check_*.py
+# generate_*.py
+
+# Generated test files
+red_gradient_grid.tex
+test_bc7_output.tex
+test_red_pixel.tex
+test_small_uniform_bc7.tex
+test_spectrum_bc7.tex
+test_uniform_normal_bc7.tex
