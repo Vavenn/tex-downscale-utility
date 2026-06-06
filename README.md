@@ -32,7 +32,7 @@ A texture downscaling and optimization tool for Final Fantasy XIV mods
 ### Installation
 - This is a standalone build, no need to do anything else
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Basic Workflow
 
